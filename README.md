@@ -218,5 +218,7 @@ Then in your .cpp file:
 - [Dracula Theme](https://packagecontrol.io/packages/Dracula%20Color%20Scheme)
 
 ---
+<img width="1728" alt="Screenshot 2025-07-07 at 3 31 37 PM" src="https://github.com/user-attachments/assets/3a197dd4-3c78-4edd-bcac-4c2b5e59b9c4" />
 
 ## 👋 Happy Coding & Good Luck in Contests!
+
